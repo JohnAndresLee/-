@@ -1,0 +1,1 @@
+void throwerror(int signal);
